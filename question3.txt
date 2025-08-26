@@ -1,0 +1,1 @@
+A variable in Python is like a named storage box where you can keep data (like numbers, text, etc.). You create a variable by assigning it a value using the equals sign =.
